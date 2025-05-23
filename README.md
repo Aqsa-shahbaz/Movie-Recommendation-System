@@ -8,22 +8,22 @@ project/
 
 │
 
-├── recommender.py           # Core logic for data loading, model creation, and recommendation
+├── recommender.py                                  # Core logic for data loading, model creation, and recommendation
 
-├── train.ipynb              # Model training notebook (saves trained weights)
+├── train.ipynb                                     # Model training notebook (saves trained weights)
 
-├── main.py                  # Flask backend: web app routes, request handling, connects everything
+├── main.py                                         # Flask backend: web app routes, request handling, connects everything
 
-├── requirements.txt         # Python dependencies
+├── requirements.txt                                # Python dependencies
 
 │
 
-├── templates/               # Contains HTML templates
+├── templates/                                     # Contains HTML templates
 
 │   └── index.html
 
 │
 
-└── static/                  # Contains static assets like CSS
+└── static/                                       # Contains static assets like CSS
 
     └── style.css
