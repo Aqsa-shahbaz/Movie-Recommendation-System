@@ -1,14 +1,14 @@
-**Install dependencies:**
+#**Install dependencies:**
 
 pip install -r requirements.txt
 
-**Project Structure**
+#**Project Structure**
 
 project/
 
 │
 
-├── recommender.py                                  (Core logic for data loading, model creation, and recommendation)
+├── recommender.py                                  &nbsp;&nbsp;&nbsp;&nbsp;#Core logic for data loading, model creation, and recommendation
 
 ├── train.ipynb                                     (Model training notebook (saves trained weights))
 
